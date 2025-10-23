@@ -63,5 +63,3 @@ docker-compose ps
 # Redémarrer un service
 docker-compose restart backend
 ```
-![Screenshot 2025-10-23 at 17.34.36.png](Screenshot%202025-10-23%20at%2017.34.36.png)``
-![Screenshot 2025-10-23 at 17.24.29.png](Screenshot%202025-10-23%20at%2017.24.29.png)![Screenshot 2025-10-23 at 17.34.36.png](Screenshot%202025-10-23%20at%2017.34.36.png)
